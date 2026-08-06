@@ -1,0 +1,6 @@
+{
+  "name": "Markets Overview",
+  "description": "Global financial markets platform with real-time quotes, indices, stocks, crypto, forex, interactive charts, and search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
